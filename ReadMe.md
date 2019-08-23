@@ -33,7 +33,7 @@ FIll in the above info & click submit. You will be re-directed to another page w
 
 Your message will be revered and all occurences of ```e``` or ```E``` will be removed. 
 
-## Link to view app online 
-http://www.google.com
+## Link to GitHub project
+https://github.com/mali023/messageObfuscator
 
 ---
