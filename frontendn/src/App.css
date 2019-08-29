@@ -1,0 +1,70 @@
+/* ========== Header ==========*/
+.navBar {
+  margin-bottom: 0%;
+  background-color: #026670 !important;
+}
+
+.navItem {
+  font-size: 20px;
+  font-weight: 800;
+  padding: 10px;
+  text-decoration: none;
+  border: none;
+  color: #FCE181;
+  background-color: transparent;
+}
+
+.navItemActive {
+  background-color: #FCE181;
+  color: #000;
+  border-radius: 20px;
+}
+
+/* Curves */
+#curveUpColor path,
+#curveDownColor path {
+	fill: #026670;
+  stroke: #026670;
+  margin: 0px;
+  padding: 0px;
+}
+
+
+/* ========== Footer ========== */
+footer {
+  color: #fff;
+  background: #026670;
+  bottom: 0px;
+  padding: 15px 0 5px 0;
+  text-align: center;
+  width: 100%;
+  bottom: 0px;
+  margin-top: 0%;
+
+}
+footer a {
+  color: #999;
+}
+footer a:hover {
+  color: #efefef;
+}
+
+/* responsive footer*/
+@media (max-width: 767px) {
+
+  footer  {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+
+/* ========== Submit Page ========== */
+.display-3 {
+  margin-top: -3%;
+  color: #32383F;
+}
+
+/* ========== Global ========== */
+.bg {
+  background-color: #EDEAE5 !important;
+}
